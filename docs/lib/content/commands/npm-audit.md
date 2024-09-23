@@ -1,4 +1,4 @@
----
+---npm-audit.md
 title: npm-audit
 section: 1
 description: Run a security audit
